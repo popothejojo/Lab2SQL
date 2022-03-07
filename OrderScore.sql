@@ -1,0 +1,1 @@
+SELECT Car_ID, Year, Make, Model, OverallScore FROM Cars_Details ORDER BY OverallScore Desc;
