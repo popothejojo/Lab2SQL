@@ -1,0 +1,1 @@
+My Tables were not edited and i printed the output to csv files and provided the code i used to produce output in sql files, i was having trouble adding data to the table because i already define a database without the timestamp becuase it wasnt stated in the instructions, i turned headers on in sqlite3 so it was easier to read and understand the data.

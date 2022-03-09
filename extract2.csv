@@ -1,8 +1,4 @@
 Make,Car_ID,OverallScore
-Acura,174,4
-Acura,71,6
-Acura,230,20
-Make,Car_ID,OverallScore
 Jeep,124,124
 Make,Car_ID,OverallScore
 Lexus,212,6
@@ -58,3 +54,6 @@ Make,Car_ID,OverallScore
 Toyota,243,10
 Toyota,241,24
 Toyota,189,50
+Car_Scores    Cars_Details  Judges      
+Car_Scores    Cars_Details  Judges      
+Car_Scores    Cars_Details  Judges      
